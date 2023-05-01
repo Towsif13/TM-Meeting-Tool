@@ -1,0 +1,70 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+body {
+  background-color: rgba(66, 139, 204, 0.12);
+}
+
+h2 {
+  font-weight: bold;
+  font-family: "Calibri", sans-serif;
+}
+
+.head {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+table {
+  background-color: white;
+}
+
+td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+/* #inventors {
+  margin-top: 5px;
+} */
+
+#inventors .inventor {
+  margin-top: 5px;
+}
+
+/* 
+
+table {
+    width: 70%;
+    margin: 0px auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid #cbcbcb;
+}
+
+th,
+td {
+    border: none;
+    height: 30px;
+    padding: 2px;
+}
+
+tr:hover {
+    background: #F5F5F5;
+} */
